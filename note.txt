@@ -1,1 +1,9 @@
-Hi, this file is note.txt. This file is only contains the text only.
+Maven - build tool that hepls in project management.
+
+Build tool 
+Generating src code.
+POM - Project Object Model - xml file - plug ins for maven.
+
+Java based project to manage this java based files...
+
+Getting the crt jar files is difficult
